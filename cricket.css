@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+.choice_button{
+  height: 100px;
+  width: 100px;
+  border: none;
+  background-color: rgb(144, 196, 66);
+  border-radius: 50px;
+  margin: 10px;
+  cursor: pointer;
+}
+.choice_image{
+  height: 75px;
+
+}
